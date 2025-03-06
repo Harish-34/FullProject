@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+-e .  
+
+
+"""
+    a requirements.txt file for Python, -e stands for "editable."
+    It's used to specify that a package is to be installed in editable mode, meaning that any changes made to the 
+    source code will immediately reflect in the environment without needing to reinstall the package. 
+    This is commonly used during development.
+"""
